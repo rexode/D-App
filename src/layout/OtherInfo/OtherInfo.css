@@ -1,0 +1,37 @@
+.OtherInfo{
+    display: flex;
+    flex: 1;
+}
+.OtherInfoText{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: 'M PLUS 1', sans-serif;  
+    flex-direction: column;
+    flex: 1;
+}
+.OtherInfoTitle{
+    font-family: 'Bebas Neue', cursive;
+    vertical-align: middle;
+    color: white;
+    font-size: 60px;
+}
+
+.OtherInfoImage{
+    margin-top:10px;
+    margin-right: 100px;
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    
+}
+.OtherInfoList{
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    vertical-align: middle;
+    color: white;
+    font-size: 25px;
+}
+.Background{
+    margin-right: 10px;
+}

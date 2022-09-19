@@ -1,0 +1,49 @@
+.AboutUs{
+    display: flex;
+    flex: 1;
+}
+.MintText{
+    text-align:center ;
+    margin-left: 100px;
+    margin-top: 150px;
+    font-family: 'M PLUS 1', sans-serif;  
+    flex-direction: column;
+    flex: 1;
+}
+.MintTitle{
+    font-family: 'Bebas Neue', cursive;
+    vertical-align: middle;
+    color: #EABE3F;
+    font-size: 60px;}
+
+    
+.MintDescription{
+        font-family: 'Bebas Neue', cursive;
+        vertical-align: middle;
+        color: #EABE3F;
+        font-size: 45px;
+    }
+.MintTextDescription{
+        font-family: 'Quicksand', sans-serif;
+        vertical-align: middle;
+        color: white;
+        font-size: 25px;
+    }
+    .MintButton{
+        margin-top: 20px;
+        margin-right:700px;
+        margin-left:700px;
+
+        opacity: 0.8;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        text-decoration: inherit;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #000000;
+        background-color: #EABE3F;
+        border-radius: 6px;
+        border: 2px solid #000000;
+      }
